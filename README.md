@@ -11,4 +11,5 @@ Based on these three models and their f1-scores, we decided that the XGBoost mod
 
 The two areas where this model misses the most is when employees meet 80% of their KPIs at 20.5% and when employees win awards at 24.6%. In future research, we could look at these columns more in depth and possibly create more models separating the values in these columns to see if our model improves.
 
+Our data can be found here: https://www.kaggle.com/arpina/promotion?select=promotion.csv
 The article for this project can be found here: https://www.linkedin.com/pulse/promotions-climb-corporate-ladder-stephanie-lao/?trackingId=OvAC1POkTZiLQOz0g9lnEQ%3D%3D
